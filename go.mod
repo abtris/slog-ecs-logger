@@ -1,6 +1,6 @@
 module github.com/abtris/slog-ecs-logger
 
-go 1.21.3
+go 1.21.5
 
 require go.opentelemetry.io/otel/trace v1.19.0
 
